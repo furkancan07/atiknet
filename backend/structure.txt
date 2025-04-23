@@ -1,0 +1,11 @@
+backend/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── model/
+│   │   ├── __init__.py
+│   │   └── classifier.py
+│   └── utils/
+│       ├── __init__.py
+│       └── image_processing.py
+└── requirements.txt
